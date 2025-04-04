@@ -1,4 +1,4 @@
-# Saesforce Field Update Issue
+# Salesforce Field Update Issue
 
 ## Problem Statement:
 Some fields are getting updated in Salesforce even though we are passing their values in Boomi (via the Salesforce SOAP Connector), and there's no error thrown by Salesforce.
